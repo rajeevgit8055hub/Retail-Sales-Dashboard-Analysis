@@ -140,7 +140,7 @@ A heartfelt thank you to **Miss Ayushi Mishra Ma'am**, whose mentorship was inst
 ## 🖼️ Final Dashboard Preview
 
 ### Retail Sales Dashboard (Full View)
-![Retail Sales Dashboard](./Retail%20Sales%20Dashboard.png)
+![Retail Sales Dashboard](Retail%20Sales%20Dashboard.png)
 
 ### Final Retail Dashboard Snapshot
 ![Final Retail Sales Dashboard](./Final%20Retail%20Sales%20Dashboard.png)
