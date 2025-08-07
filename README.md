@@ -1,4 +1,4 @@
-# 🚀 Excel Dashboard Project – Retail Sales Insights
+# 🏬 Excel Dashboard Project – Retail Sales Insights
 
 ---
 
