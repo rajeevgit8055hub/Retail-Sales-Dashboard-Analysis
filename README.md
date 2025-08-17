@@ -131,12 +131,6 @@ Most importantly, it proved that **Excel is not just a spreadsheet tool**, but a
 
 ---
 
-## 🙏 Special Thanks
-
-A heartfelt thank you to **Miss Ayushi Mishra Ma'am**, whose mentorship was instrumental in the success of this project. Her ability to explain complex topics simply, and push me to think deeper, has made a lasting impact on how I approach data analysis and reporting.
-
----
-
 ## 🖼️ Final Dashboard Preview
 
 ### Final Retail Dashboard Snapshot
