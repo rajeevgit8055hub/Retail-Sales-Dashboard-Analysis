@@ -133,10 +133,10 @@ Most importantly, it proved that **Excel is not just a spreadsheet tool**, but a
 
 ## 🖼️ Final Dashboard Preview
 
-### Final Retail Dashboard Snapshot
+### Final Retail Sales Dashboard
 ![Final Retail Sales Dashboard](./Final%20Retail%20Sales%20Dashboard.png)
 
-### Retail Sales Dashboard (Full View)
+### Retail Dashboard Snapshot
 ![Retail Sales Dashboard](Retail%20Sales%20Dashboard.jpg)
 
 ---
